@@ -10,6 +10,8 @@ Nesse curso oferecido pela Alura, foi implantado um jogo da forca, utilizando as
 
     Dentro do loop, o jogador é solicitado a informar uma letra e a lista de letras acertadas é atualizada com a letra correta, caso o jogador tenha acertado. Se o jogador acertar todas as letras da palavra secreta, a variável acertou será definida como True, encerrando o loop e exibindo a mensagem de "Fim do jogo". Se o jogador errar muitas vezes e a variável enforcou for definida como True, também ocorrerá a mesma coisa, encerrando o loop e exibindo a mensagem de "Fim do jogo".
 
+    > Break = quando executada, encerra o loop naquele ponto. 
+
 3. Funções de String utilizadas:
    >  Upper: utilizada para converter as letras informadas pelo jogador e as letras da palavra secreta em letras maiúsculas, permitindo que a comparação de letras seja feita independentemente se elas foram informadas em maiúsculas ou minúsculas. Isso é importante para evitar erros no jogo, já que as letras maiúsculas e minúsculas são tratadas de forma diferente em Python. Se o jogador informar a letra em minúscula e a letra correta da palavra secreta estiver em maiúscula, a comparação falhará e a letra não será considerada como correta, causando um erro no jogo.
 
@@ -17,3 +19,5 @@ Nesse curso oferecido pela Alura, foi implantado um jogo da forca, utilizando as
 
 4. Lista: 
 5. Tuplas:
+6. Set: coleção não ordenada de elementos. Cada elemento é único, isso significa que não existem elementos duplicados dentro do set.
+7. Dictionary: 
