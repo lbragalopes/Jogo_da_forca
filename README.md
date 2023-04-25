@@ -29,14 +29,6 @@ Nesse curso oferecido pela Alura, foi implantado um jogo da forca, utilizando as
 
 5. Funções: O código foi dividido em funções para facilitar a organização do código e torná-lo mais fácil de ler, entender e manter. Além disso, dividir o código em funções torna-o mais modular, o que significa que cada função pode ser testada e depurada separadamente. 
 
-![image](https://user-images.githubusercontent.com/83672645/234415148-fb1e7626-9696-447a-af0d-152378648f10.png)
-
-![image](https://user-images.githubusercontent.com/83672645/234415393-1737032d-f376-4f0f-8361-7eb06d506407.png)
-
-![image](https://user-images.githubusercontent.com/83672645/234415513-1c115737-dab7-4fa1-a883-5934bcb037e1.png)
-
-![image](https://user-images.githubusercontent.com/83672645/234415583-059461b1-b672-41ba-aadb-1dcfae32a833.png)
-
 
 
 
