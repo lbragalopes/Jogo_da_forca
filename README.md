@@ -31,3 +31,12 @@ Nesse curso oferecido pela Alura, foi implantado um jogo da forca, utilizando as
    
 6. Entrada de Dados: é realizada através da leitura do arquivo de texto "palavras.txt". O conteúdo deste arquivo é lido e processado pelo código, linha por linha, para gerar a saída desejada. Isso é feito pela função carrega_palavra_secreta(), que abre o arquivo de texto e o lê linha por linha, armazenando cada linha em uma lista de strings. A função começa abrindo o arquivo de texto contendo as palavras secretas utilizando a função open() do Python. Em seguida, as palavras do arquivo são lidas e armazenadas em uma lista utilizando o método readlines(). A função utiliza o módulo random do Python para escolher aleatoriamente uma palavra da lista. A palavra escolhida é retornada pela função para que seja utilizada no restante do jogo. Caso ocorra algum erro durante o processo de leitura do arquivo ou escolha da palavra, a função retorna uma mensagem de erro.
 
+
+![image](https://user-images.githubusercontent.com/83672645/234415148-fb1e7626-9696-447a-af0d-152378648f10.png)
+
+![image](https://user-images.githubusercontent.com/83672645/234415393-1737032d-f376-4f0f-8361-7eb06d506407.png)
+
+![image](https://user-images.githubusercontent.com/83672645/234415513-1c115737-dab7-4fa1-a883-5934bcb037e1.png)
+
+![image](https://user-images.githubusercontent.com/83672645/234415583-059461b1-b672-41ba-aadb-1dcfae32a833.png)
+
